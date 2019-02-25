@@ -1,3 +1,11 @@
 node_modules
 .idea/
 .git
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
