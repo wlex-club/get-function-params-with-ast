@@ -1,0 +1,23 @@
+{
+  "name": "get-function-params-with-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiLe-Wang/get-function-params-with-ast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiLe-Wang/get-function-params-with-ast/issues"
+  },
+  "homepage": "https://github.com/weiLe-Wang/get-function-params-with-ast#readme",
+  "dependencies": {
+    "esprima": "^4.0.1"
+  }
+}
